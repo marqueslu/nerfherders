@@ -4,4 +4,8 @@
 
 ## Getting Started
 
-- Para clonar o repositório digite no seu terminal `git clone https://github.com/marqueslu/nerfherders.git`
+- Para clonar o repositório digite no seu terminal
+
+```
+$ git clone git@github.com:marqueslu/nerfherders.git
+```
